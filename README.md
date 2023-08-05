@@ -1,5 +1,4 @@
 # Graph-Analyzer
-## Introduction
 Graph Analyzer is a robust C++ program designed to read files containing graph edges and construct an adjacency list data structure. Utilizing efficient data structures like vectors and linked lists, this project offers functionality to analyze and comprehend various properties of graphs.
 
 ## Features
